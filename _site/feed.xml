@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Moomaw Dance Music</description>
+    <link>http://www.moomaw.info/</link>
+    <atom:link href="http://www.moomaw.info/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>NEW site</title>
+        <description>&lt;p&gt;MOOMAW site updated with a lean to the sparse.&lt;/p&gt;</description>
+        <pubDate>Wed, 29 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://www.moomaw.info/new/2014/10/29/new-site/</link>
+        <guid isPermaLink="true">http://www.moomaw.info/new/2014/10/29/new-site/</guid>
+      </item>
+    
+      <item>
+        <title>Autumn E Clipt</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;anyone else actually see this eclipse yesterday ? &lt;a href=&quot;https://t.co/AKsRXGZLyH&quot;&gt;https://t.co/AKsRXGZLyH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Moomaw (@nathanmoomaw) &lt;a href=&quot;https://twitter.com/nathanmoomaw/status/525764546548338688&quot;&gt;October 24, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</description>
+        <pubDate>Fri, 24 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://www.moomaw.info/track/2014/10/24/e-clipt/</link>
+        <guid isPermaLink="true">http://www.moomaw.info/track/2014/10/24/e-clipt/</guid>
+      </item>
+    
+  </channel>
+</rss>

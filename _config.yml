@@ -1,0 +1,30 @@
+
+# <title> {{site.name}} </title>
+# ============================================================
+name: "MOOMAW"
+
+# Populates the meta description for the site. Should be under 150 characters for best SEO results.
+# ============================================================
+description: "Moomaw Dance Music"
+author: "nathanmoomaw"
+url: "http://www.moomaw.info"
+baseurl: ""
+
+# Publish future posts or not option.
+# ============================================================
+future: true
+
+# "A list of directories (including trailing slash) and files to exclude from the conversion"
+# I normally exclude _sass, README*, and .gitignore
+# Directories that start with an underscore _ are not copied over by default. Still like to include _sass anyways.
+# ============================================================
+exclude: [README.md, Rakefile]
+
+# Pagination variable for how many posts to show in a list
+# ============================================================
+#paginate: 5
+
+# Style of permalinks
+# ============================================================
+permalink: pretty
+markdown: kramdown
