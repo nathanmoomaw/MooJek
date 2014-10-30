@@ -1,1 +1,0 @@
-just the Files for MOOMAW.info a Jekyll implementation.
